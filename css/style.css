@@ -13,10 +13,15 @@ body {
 
   #economy {
     color: rgb(255, 0, 0);
+    font-family: "Times New Roman", "Times", serif;
   }
 
 ul li {
     color:rgb(238, 130, 238)
+}
+
+ol li {
+    color: rgb(238, 130, 238)
 }
 
 
