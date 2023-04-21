@@ -46,9 +46,7 @@ ol li {
      color: rgb(0, 255, 255)
   }
 
-  p {
-    line-height: 1.5;
-  }
+   
 
    #box {
       background-color: rgb(0, 0, 0);
@@ -59,7 +57,7 @@ ol li {
       border-bottom: 10px groove #00f;
       border-left: 10px groove #00f;
       width: 960px;
-      height: 500px;
+      height: 1200px;
   }
   
 
