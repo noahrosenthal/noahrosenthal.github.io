@@ -14,3 +14,21 @@ body{
   #economy {
     color: rgb(255, 0, 0);
   }
+
+  a:link {
+    color:rgb(255, 215, 0);
+  }
+
+  a:hover{
+   color: rgb(128, 0, 128);
+  }
+
+  a:active {
+    color: rgb(0, 0, 255)
+  }
+
+  a:visited {
+     color: rgb(0, 255, 255)
+  }
+
+  
