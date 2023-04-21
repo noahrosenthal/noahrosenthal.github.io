@@ -54,12 +54,11 @@ ol li {
       background-color: rgb(0, 0, 0);
       padding: 20px 30px;
       margin: 20px 20px; 
-      border-top: 10px groove (106, 90, 205, 0.5);
-      border-right: 10px groove (106, 90, 205, 0.5);
-      border-bottom: 10px groove (106, 90, 205, 0.5);
-      border-left: 10px groove (106, 90, 205, 0.5);
-      width: 30px;
-      height: 150px;
+      border-top: 10px groove #00f;
+      border-right: 10px groove #00f;
+      border-bottom: 10px groove #00f;
+      border-left: 10px groove #00f;
+      
   }
   
 
