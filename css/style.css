@@ -25,6 +25,18 @@ body {
     font-family: "Times New Roman", "Times", "Garamond", serif;
   }
 
+  .nav {
+    display: grid;
+    grid-template-rows: repeat(auto-fill, minmax(50px, 1fr)); /* Creates rows with a minimum height of 50px that expand to fill available space */
+    gap: 10px; /* Adds a 10px gap between each row */
+  }
+  
+  .nav a {
+    background-color: #eee; /* Adds a background color to the links */
+    padding: 10px; /* Adds some padding around the links */
+    text-align: center; /* Centers the text horizontally */
+  }
+
 ul li {
     color:rgb(238, 130, 238)
 }
