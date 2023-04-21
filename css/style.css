@@ -14,7 +14,10 @@ body {
   font-size: 16px;
   font-weight: 100;
   line-height: 1.5;
+  grid-template-columns: 1rf 2fr;
+  grid-template-rows: 200px 200px;
   max-width: 960px
+  
   }
 
   #economy {
