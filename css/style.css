@@ -1,11 +1,11 @@
 /* This is a comment! */
 
-{
+
   @import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
   
   @import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100&family=swap');
 
-}
+
 
 
 body {
@@ -13,6 +13,7 @@ body {
   font-family: "Urbanist","Raleway","Arial", "Helvetica", sans-serif;
   font-size: 16px;
   font-weight: 100;
+  max-width: 960px
   }
 
   #economy {
