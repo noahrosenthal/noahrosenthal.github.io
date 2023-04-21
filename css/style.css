@@ -15,6 +15,11 @@ body{
     color: rgb(255, 0, 0);
   }
 
+nav li {
+    color:rgb(238, 130, 238)
+}
+
+
   a:link {
     color:rgb(255, 215, 0);
   }
