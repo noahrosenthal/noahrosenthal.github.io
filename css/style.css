@@ -58,7 +58,8 @@ ol li {
       border-right: 10px groove #00f;
       border-bottom: 10px groove #00f;
       border-left: 10px groove #00f;
-      
+      width: 960px;
+      height: 500px;
   }
   
 
