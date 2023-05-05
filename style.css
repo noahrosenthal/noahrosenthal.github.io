@@ -1,5 +1,8 @@
 /* CSS Stylesheet */
 
+
+@import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
+
 body {
   font-family: Urbanist,Arial, sans-serif;
   font-size: 16px;
@@ -8,42 +11,29 @@ body {
   padding: 0;
 }
 
-a {
+a:link {
   color: #0077cc;
   
 }
 
 a:hover {
+	color:#ba2812;
   text-decoration: underline;
 }
 
-/* Header */
-
-header {
-  background-color: #fff;
-  padding: 20px;
-  align-items: center;
+a:active {
+  color: #9812ba;
+  
 }
 
-header h1 {
- 
-  color: #333;
-  margin: 0;
+a:visited {
+  color: #12ba47;
+  
 }
 
-header nav ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: flex;
+ul li{
+	color:#ffffff4f ;
 }
-
-header nav li {
-  margin: 0 10px;
-}
-
-header nav a {
-  color: #333;
 
 
  
