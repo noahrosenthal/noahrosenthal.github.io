@@ -99,7 +99,7 @@ section {
   padding: 10px;
 }
 
-h2
+
 h3
 {
 	font-size: 26px;
@@ -107,6 +107,7 @@ h3
   color: #049ae6
 }
 
+h2,
 h4
 {
 	font-size: 26px;
