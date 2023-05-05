@@ -1,0 +1,49 @@
+/* CSS Stylesheet */
+
+body {
+  font-family: Urbanist,Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 0;
+  padding: 0;
+}
+
+a {
+  color: #0077cc;
+  
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* Header */
+
+header {
+  background-color: #fff;
+  padding: 20px;
+  align-items: center;
+}
+
+header h1 {
+ 
+  color: #333;
+  margin: 0;
+}
+
+header nav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+header nav li {
+  margin: 0 10px;
+}
+
+header nav a {
+  color: #333;
+
+
+ 
