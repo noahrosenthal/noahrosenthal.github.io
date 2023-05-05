@@ -4,7 +4,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Urbanist&display=swap');
 
 body {
-  font-family: Urbanist,Arial, sans-serif;
+  font-family: "Urbanist","Helvetica","Arial", sans-serif;
   font-size: 16px; 
   max-width:960px;
   color:#0000004f;
@@ -99,5 +99,11 @@ section {
   padding: 10px;
 }
 
+h3
+{
+	font-size: 26px;
+  font-weight: bold;
+  color: #049ae6
+}
 
  
