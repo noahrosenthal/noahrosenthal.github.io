@@ -5,7 +5,8 @@
 
 body {
   font-family: Urbanist,Arial, sans-serif;
-  font-size: 16px;
+  font-size: 16px; 
+  max-width:960px;
   color:#0000004f;
   line-height: 1.5;
   grid-template-columns: 1fr 1fr;
